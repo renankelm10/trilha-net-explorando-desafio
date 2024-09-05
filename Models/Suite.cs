@@ -1,4 +1,4 @@
-namespace DesafioProjetoHospedagem.Models
+namespace DesafioProjetoHospedagem.Models.Suisui
 {
     public class Suite
     {
